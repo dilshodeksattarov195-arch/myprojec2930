@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpetch",
+        "uuid": 11049030,
+        "checksum": "4ildp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
